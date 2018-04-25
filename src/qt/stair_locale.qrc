@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/stair_bg.qm</file>
+        <file alias="de">locale/stair_de.qm</file>
+        <file alias="en">locale/stair_en.qm</file>
+        <file alias="es">locale/stair_es.qm</file>
+        <file alias="fi">locale/stair_fi.qm</file>
+        <file alias="fr">locale/stair_fr.qm</file>
+        <file alias="it">locale/stair_it.qm</file>
+        <file alias="ja">locale/stair_ja.qm</file>
+        <file alias="pl">locale/stair_pl.qm</file>
+        <file alias="pt">locale/stair_pt.qm</file>
+        <file alias="ru">locale/stair_ru.qm</file>
+        <file alias="sk">locale/stair_sk.qm</file>
+        <file alias="sv">locale/stair_sv.qm</file>
+        <file alias="vi">locale/stair_vi.qm</file>
+        <file alias="zh_CN">locale/stair_zh_CN.qm</file>
+        <file alias="zh_TW">locale/stair_zh_TW.qm</file>
+    </qresource>
+</RCC>
