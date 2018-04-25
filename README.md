@@ -1,3 +1,10 @@
+-////////////////////////////////////////////////
+- Installation :
+- wget https://github.com/staircoin/staircoin/releases/download/v1.0.1.1/Stair_install.sh  
+- chmod +x Stair_install.sh
+- ./Stair_install.sh
+-////////////////////////////////////////////////
+
 - This is Stair coin Spec.
 
 - <Technical Specs>
